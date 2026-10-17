@@ -6,6 +6,10 @@
   <sub>在校学生 · 从想法到上线，一个人写完</sub>
 </p>
 
+<p align="center">
+  <sub><a href="README.en.md">English</a> · 简体中文</sub>
+</p>
+
 ---
 
 ### 🔭 正在运行
