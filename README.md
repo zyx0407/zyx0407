@@ -16,7 +16,7 @@
 
 **[个人门面站 · zyx0407.com](https://zyx0407.com)** ｜ [源码](https://github.com/zyx0407/home)
 
-一张居中卡片的个人站：连笔鱼标一笔一笔写出来，五个入口（个人 / 作品 / 互动 / 邮箱 / GitHub）里前四个各带一个副页。原生 HTML / CSS / JavaScript，数据与页面分离。
+一张居中卡片的个人站：连笔鱼标一笔一笔写出来，三颗入口（个人 / 作品 / 友链）各带一个副页，底下是 GitHub 与投喂入口。原生 HTML / CSS / JavaScript，数据与页面分离。
 
 **[大学生日历 · work1.zyx0407.com](https://work1.zyx0407.com/)** ｜ [源码](https://github.com/zyx0407/student-calendar)
 
@@ -35,6 +35,7 @@
 **开源与工具** —— 自己写、自己也天天在用的那种：
 
 - **[软著申请材料生成器](https://github.com/zyx0407/soft-copyright-docs)** —— 一条命令生成源程序文档（每页 55 行、前后各 30 页）、软件说明书、用户操作手册、界面截图文档；配置驱动，带 14 个单测
+- **[技能库](https://github.com/zyx0407/skills)** —— 自己天天在用的两款：无头出图（自动判白屏、失败重试）与纸色架构图（纯 HTML + SVG，零依赖），一个目录一款
 - **[大学生日历](https://github.com/zyx0407/student-calendar)** —— 上面那个作品的本体：数据文件与页面分离，改数据就等于改页面
 - **[个人门面站](https://github.com/zyx0407/home)** —— 站点与副页的源码
 - **[zyx0407](https://github.com/zyx0407/zyx0407)** —— 本仓库，GitHub 首页

@@ -16,7 +16,7 @@
 
 **[Personal site · zyx0407.com](https://zyx0407.com)** ｜ [source](https://github.com/zyx0407/home)
 
-A one-card personal site: the fish mark is drawn stroke by stroke, and five entries (about / work / notes / email / GitHub) — the first four each have a subpage. Vanilla HTML / CSS / JavaScript, content separated from the page.
+A one-card personal site: the fish mark is drawn stroke by stroke, with three entry pills (about / work / links) that each open a subpage, plus GitHub and a tip jar at the bottom. Vanilla HTML / CSS / JavaScript, content separated from the page.
 
 **[Student Calendar · work1.zyx0407.com](https://work1.zyx0407.com/)** ｜ [source](https://github.com/zyx0407/student-calendar)
 
@@ -35,6 +35,7 @@ A one-card personal site: the fish mark is drawn stroke by stroke, and five entr
 **Open source & tools** — the kind I write and then use every day:
 
 - **[soft-copyright-docs](https://github.com/zyx0407/soft-copyright-docs)** — one command generates the source-code document (55 lines/page, first + last 30 pages), specification, user manual and screenshot document; config-driven, 14 unit tests
+- **[skills](https://github.com/zyx0407/skills)** — two tools I use daily: headless screenshots with blank-page detection and retries, and paper-coloured architecture diagrams in pure HTML + SVG; one directory each
 - **[student-calendar](https://github.com/zyx0407/student-calendar)** — the work above: data file separated from the page, editing data is editing the page
 - **[home](https://github.com/zyx0407/home)** — source of the site and its subpages
 - **[zyx0407](https://github.com/zyx0407/zyx0407)** — this repository, the GitHub profile
