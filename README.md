@@ -1,6 +1,6 @@
 <h1 align="center">阿玖 · zyx0407</h1>
 
-<p align="center">把想法做成真能跑起来的东西。在校学生，一个人写完。</p>
+<p align="center">把想法做成真能跑起来的东西。大四学生，个人开发者，一直在试新的东西。</p>
 
 <p align="center">
   <a href="https://zyx0407.com">个人站</a> ·

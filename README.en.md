@@ -1,6 +1,6 @@
 <h1 align="center">Ajiu · zyx0407</h1>
 
-<p align="center">Turning ideas into things that actually run. Student, one person end to end.</p>
+<p align="center">Turning ideas into things that actually run. Final-year student, indie developer, always trying something new.</p>
 
 <p align="center">
   <a href="https://zyx0407.com">Personal site</a> ·
